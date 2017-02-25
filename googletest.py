@@ -15,7 +15,7 @@ locationLong = j['longitude']
 #print locationLat #used for testing latitude coordinates
 #print locationLong #used for testing longitude coordinates
 
-#######################################
+########################################
 
 #locationLat = 41.745161 #lat and long for Logan, Ut
 #locationLong = -111.8119312
